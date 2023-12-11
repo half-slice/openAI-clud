@@ -3,7 +3,7 @@ $(document).ready(function () {
 });
 
 function chatGPT() {
-    const api_key = "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";  //appl account key
+    const api_key = "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";  //api key
     const api_endpoint = "https://api.openai.com/v1/chat/completions";
     const keywords = document.getElementById('keywords').value;
     //로딩 이미지를 보여줌
